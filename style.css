@@ -2,8 +2,6 @@
     background-image: url('images/bold-1-cut-wave-header.jpg');
 }
 
-
-
 h2,
 h3,
 a {
@@ -16,7 +14,7 @@ h1 {
     letter-spacing: -3.5;
 }
 
-h2 {
+body h2 {
     font-family: 'Montserrat', sans-serif;
     font-size: 32px;
     letter-spacing: 45;
