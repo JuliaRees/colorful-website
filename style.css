@@ -2,6 +2,8 @@
     background-image: url('images/bold-1-cut-wave-header.jpg');
 }
 
+
+
 h2,
 h3,
 a {
@@ -10,10 +12,21 @@ a {
 
 h1 {  
     font-family: 'Titan One', cursive;
-    font-size: 78rem;
+    font-size: 78px;
     letter-spacing: -3.5;
 }
 
 h2 {
     font-family: 'Montserrat', sans-serif;
+    font-size: 32px;
+    letter-spacing: 45;
+    font-weight: 800;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    letter-spacing: 4.5;
+    line-height: 1.35;
+    font-weight: 400;
 }
