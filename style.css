@@ -33,3 +33,13 @@ body h3 {
     font-weight: 800;
     margin-bottom: 12%;
 }
+
+body input,
+body textarea {
+    display: block;
+    margin-bottom: 1rem ;
+    padding: 0.5rem;
+    outline: none;
+    width: 100%;
+    text-transform: uppercase;
+}
